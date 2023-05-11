@@ -1,0 +1,5 @@
+Order,Stat1,stat,Stat2,stat,Stat3,stat,Stat4,stat
+1,CR,3.89,CD,7.77,ER,6.48,ATK%,29.15
+2,HP,298.75,HP%,29.15,DEF,20.83,DEF%,5.10
+3,EM,79.26,ATK%,9.91,ER,5.18,DEF,18.52
+4,CD,6.99,CR,2.72,ER,5.18,DEF,18.52
